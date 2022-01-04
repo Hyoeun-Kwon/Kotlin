@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">RecyclerView_01</string>
+    <string name="add_new_item">ADD_NEW_ITEM</string>
+
+    <string-array name="example_array">
+        <item>Example00</item>
+        <item>Example01</item>
+        <item>Example02</item>
+        <item>Example03</item>
+        <item>Example04</item>
+        <item>Example05</item>
+        <item>Example06</item>
+        <item>Example07</item>
+        <item>Example08</item>
+
+    </string-array>
 </resources>

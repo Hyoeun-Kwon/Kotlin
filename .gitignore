@@ -297,3 +297,5 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,androidstudio,kotlin,java,android
+RecyclerView/.idea/misc.xml
+RecyclerView/.idea/misc.xml
